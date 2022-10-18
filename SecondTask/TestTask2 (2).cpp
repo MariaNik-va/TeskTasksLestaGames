@@ -62,7 +62,6 @@ public:
         _head = 0;
         _tail = 0;
         _countOfElements = 0;
-        //почистить ли реально?
     }
 };
 
